@@ -1,0 +1,57 @@
+[
+
+ {
+    "codigo": "Teclado y Mouse",
+    "descripcion": "Kit de teclado y mouse inalámbrico Logitech MK235 Español - Negro",
+    "imagen": "img/teclado.jpg",
+    "detalle": "Teclado K235 y mouse M170. Aptos para windows 7 y versiones superiores, chrome os, linux kernel 2.6+. Resistentes a salpicaduras. Teclado de membrana. Idioma del teclado: Español. Mouse con sensor óptico y resolución de 1000 dpi.Productos con rango inalámbrico de 10 m.Interfaz de conexión de los dispositivos usb.",
+    "precio": "$24.454",
+    "puntuacion": "****"
+ },
+
+ {
+    "codigo": "Placa de video",
+    "descripcion": "Placa de video AMD Yeston RX 500 Series RX 550 RX550-4G D5 TA 4GB",
+    "imagen": "img/placaVideo.jpg",
+    "detalle": "Interfaz PCI-Express 3.0. Memoria gráfica GDDR5 de 7000MHz.Bus de memoria: 128bit. Cantidad de núcleos: 512. Frecuencia base del núcleo de 1183MHz.Formatos de conexión: DisplayPort 1.4, HDMI 2.0b, DL-DVI-D.",
+    "precio": "$155.399",
+    "puntuacion": "*****"
+ },
+
+ {
+    "codigo": "Parlante",
+    "descripcion": "Parlante T&g 511 Mini Portátil Con Bluetooth 110v/220v",
+    "imagen": "img/parlante.jpg",
+    "detalle": "Compatible con cualquier dispositivo Bluetooth. Distancia de uso: 10M. Duración de batería: 4hs. Potencia: 3W. Frecuencia de respuesta: 120Hz - 20KHz. Capacidad de la batería: 3.7V/300mAh. Entrada USB. Entrada para tarjeta de memoria. Entrada auxiliar 3.5mm (cable incluido)",
+    "precio": "$4.100",
+    "puntuacion": "****"
+ },
+
+ {
+    "codigo": "Auriculares",
+    "descripcion": "Auricular Con Microfono Philips Tah4105 On-ear Manos Libres",
+    "imagen": "img/auricular.jpg",
+    "detalle": "Con micrófono incorporado. Sonido superior y sin límites. Cómodos y prácticos.",
+    "precio": "$14.553",
+    "puntuacion": "*****"
+ },
+
+ {
+    "codigo": "Micrófono",
+    "descripcion": "Micrófono HyperX QuadCast condensador multipatrón negro",
+    "imagen": "img/microfono.jpg",
+    "detalle": "Dispositivos compatibles: pc, playstation, auriculares, mac, notebooks.Cable de 3m. Conector/es de salida: usb. Frecuencia máxima: 20kHz.Frecuencia mínima: 20Hz. Tiene luz LED.",
+    "precio": "$116.631",
+    "puntuacion": "*****"
+ },
+
+ {
+    "codigo": "Tarjeta de Memoria",
+    "descripcion": "Maxell Tarjeta Memoria Micro Sd Xc 128gb Microsd Clase 10",
+    "imagen": "img/tarjetaMemoria.jpg",
+    "detalle": "Tarjeta MicroSDXC. Su velocidad de lectura es de 90 MB/s y de escritura 45 MB/s. Posee adaptador de memoria. Almacena diferentes tipos de datos. Clase de velocidad: 10.",
+    "precio": "$16.726",
+    "puntuacion": "*****"
+ }
+
+]

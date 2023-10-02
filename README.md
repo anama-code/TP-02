@@ -1,0 +1,1 @@
+Creación de una tienda Online, generando contenido dinámico con Js, a partir de datos obtenidos de un archivo JSON y guardándolos en el Almacenamiento Local.
